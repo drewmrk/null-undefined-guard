@@ -9,11 +9,11 @@
   "license": "MIT",
   "keywords": [
     "front-end",
-    "html",
     "typescript",
-    "ref",
-    "element",
-    "document"
+    "null",
+    "undefined",
+    "guard",
+    "checking"
   ],
   "devDependencies": {
     "@babel/preset-env": "^7.14.4",
