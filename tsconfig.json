@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "outDir": "./lib/",
+    "module": "ES6",
+    "target": "ES2015",
+    "moduleResolution": "node",
+    "declaration": true,
+    "strict": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "lib"]
+}
